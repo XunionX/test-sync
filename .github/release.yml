@@ -1,0 +1,15 @@
+changelog:
+  categories:
+    - title: Bufix
+      labels:
+        - fix
+    - title: New feature
+      labels:
+        - new
+    - title: Changed
+      labels:
+        - update
+    - title: Removed
+      labels:
+        - remove
+
